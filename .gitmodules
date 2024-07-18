@@ -1,0 +1,3 @@
+[submodule "theme"]
+	path = theme
+	url = git@github.com:The-Weekend-Fort/the-weekend-fort-2024-submodule-example-theme.git
